@@ -1,0 +1,46 @@
+{
+  "favourites": [
+    {
+      "id": 1,
+      "title": "The Boys",
+      "genre": "action",
+      "language": "English",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "The Ghost",
+      "genre": "action",
+      "language": "german",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "The Office",
+      "genre": "sitcom",
+      "language": "English",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "Dark",
+      "genre": "action",
+      "language": "English",
+      "rating": 4.5
+    },
+    {
+      "title": "Coco",
+      "genre": "animated",
+      "language": "English",
+      "rating": "4.8",
+      "id": 5
+    },
+    {
+      "title": "Baby Driver",
+      "genre": "action/thriller",
+      "language": "English",
+      "rating": "4.9",
+      "id": 6
+    }
+  ]
+}

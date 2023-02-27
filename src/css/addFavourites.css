@@ -1,0 +1,47 @@
+.form{
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* background-color: beige; */
+    width: 700px;
+    margin: 30px auto;
+}
+.form_image{
+    margin-right: 0px;
+    background-image: url('C:/Users/kisha/Desktop/React/Entertainment/public/images/bulb.avif');
+    background-size: cover;
+    height: 500px;
+    width: 500px;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow:5px 5px 5px gray;
+
+}
+.form_input{
+    height: 400px;
+    width: 300px;
+    padding: 50px;
+    background-color: beige;
+    border-radius: 0px 20px 20px 0px;
+    text-align: center;
+    box-shadow:5px 5px 5px gray;
+}
+.form_input input{
+    border: none;
+    padding: 10px;
+    height: 30px;
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px black;
+}
+.form_input button{
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: rgb(44, 44, 129);
+    color: white;
+    box-shadow:5px 5px 5px black;
+}

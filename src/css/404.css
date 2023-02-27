@@ -1,0 +1,10 @@
+.pageNotFound{
+    color: white;
+    text-align: center;
+}
+.pageNotFound h2{
+    font-size: 150px;
+}
+.pageNotFound h1{
+    font-size: 70px;
+}
